@@ -1,4 +1,4 @@
 pde
 ===
 
-solve pde with symbolic math
+Sove PDE with the aid of symbolic mathematical software.
